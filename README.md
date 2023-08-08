@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rahulpandit0229
-- 👀 I’m interested in AWS CLOUND COMPUTING - AI & Ml
-- 🌱 I’m currently learning java & Python
-- 💞️ I’m looking to collaborate on AWS PROJECTS AND LEARNING PROCESS
+DevOps
 
 
 <!---
